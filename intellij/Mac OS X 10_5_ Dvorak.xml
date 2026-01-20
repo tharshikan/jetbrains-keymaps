@@ -1,0 +1,318 @@
+<keymap version="1" name="Mac OS X 10.5+ Dvorak" parent="Mac OS X 10.5+">
+  <action id="$Cut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="ActivateBookmarksToolWindow" />
+  <action id="ActivateCommitToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFindToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="Adtui.ZoomToActualAction">
+    <keyboard-shortcut first-keystroke="meta numpad0" />
+  </action>
+  <action id="Android.Designer.AutoArrange" />
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta open_bracket" />
+    <keyboard-shortcut first-keystroke="meta alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="ChangesView.ShelveSilently" />
+  <action id="ChangesView.ToggleCommitUi" />
+  <action id="CheckinProject" />
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f4" />
+    <keyboard-shortcut first-keystroke="meta x" />
+  </action>
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
+  <action id="CloseContent" />
+  <action id="CollapseSelection" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Console.SplitLine" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="Console.TableResult.NavigateForeignAction">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="Console.TableResult.Reload" />
+  <action id="Console.TableResult.SelectRow" />
+  <action id="DatabaseView.DataSourceCutAction">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="DatabaseView.PropertiesAction" />
+  <action id="DatabaseView.Tools" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="Docker.RemoteServers.StartComposeService" />
+  <action id="Docker.RemoteServers.StartContainer" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorChooseLookupItemCompleteStatement">
+    <keyboard-shortcut first-keystroke="shift meta enter" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="EditorCut">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt z" />
+    <keyboard-shortcut first-keystroke="meta quote" />
+  </action>
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt x" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+    <keyboard-shortcut first-keystroke="alt b" />
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="meta period" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="meta l" />
+  </action>
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="FileChooser.GotoModule" />
+  <action id="FileChooser.GotoProject" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="meta g" />
+    <keyboard-shortcut first-keystroke="shift meta g" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta close_bracket" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="Git.Commit.Stage" />
+  <action id="Github.PullRequest.Comments.Reload" />
+  <action id="Github.PullRequest.Details.Reload" />
+  <action id="Github.PullRequest.Diff.Comment.Create" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="GotoClass" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="Force touch" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="GotoPreviousError">
+    <keyboard-shortcut first-keystroke="shift f2" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="GotoRow" />
+  <action id="GotoTest" />
+  <action id="GuiDesigner.ExpandSelection" />
+  <action id="GuiDesigner.ShrinkSelection" />
+  <action id="HideActiveWindow">
+    <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="meta enter" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="Images.Thumbnails.Hide" />
+  <action id="InsertLiveTemplate" />
+  <action id="JumpToLastWindow">
+    <keyboard-shortcut first-keystroke="f12" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
+  <action id="KotlinShellExecute" />
+  <action id="List-selectPreviousColumn">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="Macro.save all and run context">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="Macro.split7">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Macro.stop">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="MethodHierarchy" />
+  <action id="MethodHierarchy.BaseOnThisMethod" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MinimizeCurrentWindow" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="NavBar-selectLeft">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="NewScratchFile" />
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="alt k" />
+  </action>
+  <action id="PopupMenu-selectNext">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="ProblemsView.QuickFixes" />
+  <action id="PropertyInspectorActions.EditValue" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+    <keyboard-shortcut first-keystroke="meta m" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="meta semicolon" />
+  </action>
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="ResizeToolWindowDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+    <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
+  <action id="ResizeToolWindowLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="ResizeToolWindowRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="ResizeToolWindowUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="ResourceExplorer.show" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="alt i" />
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
+  <action id="Run" />
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="RunDashboard.Run" />
+  <action id="SaveAll" />
+  <action id="Scala.MakeExplicit" />
+  <action id="Scala.RenameJavaToScala" />
+  <action id="Scala.RunConsole" />
+  <action id="Scala.ShowImplicitArguments" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ScalaConsole.Clean" />
+  <action id="ScalaConsole.Execute">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="ServiceView.ShowServices" />
+  <action id="SetShortcutAction" />
+  <action id="ShowIntentionActions" />
+  <action id="ShowProjectStructureSettings" />
+  <action id="SmartSelect" />
+  <action id="SmartUnSelect" />
+  <action id="Space.Review.CreateDiffComment" />
+  <action id="SplitChooser.Duplicate" />
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="alt comma" />
+  </action>
+  <action id="StepOut">
+    <keyboard-shortcut first-keystroke="shift f8" />
+    <keyboard-shortcut first-keystroke="alt period" />
+  </action>
+  <action id="StepOver">
+    <keyboard-shortcut first-keystroke="f8" />
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+  <action id="Stop">
+    <keyboard-shortcut first-keystroke="meta alt s" />
+  </action>
+  <action id="Svn.RefreshWorkingCopies" />
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="meta alt right" />
+  </action>
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
+  <action id="TableResult.GrowSelection" />
+  <action id="TableResult.ShrinkSelection" />
+  <action id="Terminal.ClearBuffer" />
+  <action id="Terminal.SmartCommandExecution.Run" />
+  <action id="Tree-selectNext">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="Tree-selectParent">
+    <keyboard-shortcut first-keystroke="left" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="UsageView.Remove">
+    <keyboard-shortcut first-keystroke="shift delete" />
+  </action>
+  <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="ViewSource" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleItalicAction" />
+  <action id="runShellFileAction" />
+</keymap>
