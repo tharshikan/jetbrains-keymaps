@@ -128,6 +128,7 @@
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta period" />
     <keyboard-shortcut first-keystroke="meta u" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
   </action>
   <action id="EditorSplitLine" />
   <action id="EditorToggleCase" />
@@ -353,6 +354,7 @@
   <action id="Terminal.MoveToolWindowTabLeft">
     <keyboard-shortcut first-keystroke="meta l" />
   </action>
+  <action id="Terminal.NewTab" />
   <action id="TerminalNewPredefinedSession">
     <keyboard-shortcut first-keystroke="meta m" />
     <keyboard-shortcut first-keystroke="ctrl t" />
@@ -367,6 +369,7 @@
   <action id="Vcs.Log.Refresh" />
   <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="Vcs.Push" />
+  <action id="Vcs.UpdateProject" />
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
     <keyboard-shortcut first-keystroke="meta back_slash" />
@@ -382,9 +385,9 @@
     <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="WelcomeScreen.CopyProjectPath" />
-  <action id="com.anthropic.code.plugin.actions.OpenClaudeInTerminalAction">
-    <keyboard-shortcut first-keystroke="meta escape" />
-    <keyboard-shortcut first-keystroke="shift meta r" />
+  <action id="com.anthropic.code.plugin.actions.SendToClaudeAction">
+    <keyboard-shortcut first-keystroke="meta alt k" />
+    <keyboard-shortcut first-keystroke="meta t" />
   </action>
   <action id="com.dubreuia.core.action.ShortcutAction" />
   <action id="copilot.disposeInlays" />
